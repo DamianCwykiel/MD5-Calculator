@@ -1,4 +1,4 @@
-# frontendtask - description 
+# MD5-calculator - description 
 -----------
 * An application consists of 3 inputs: a file-type input, an address input and a hash-shortcut input. 
 * After choosing a file that the user wants to hash, pasting an address and an original hash shortcut the download button shows up. The downlowad process starts.
