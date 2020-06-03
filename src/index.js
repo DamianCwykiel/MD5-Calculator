@@ -13,7 +13,7 @@ const checkButton = document.querySelector('[data-check-button]');
 const downloadButton = document.querySelector('[data-download-button]');
 const message = document.querySelector('[data-message-alert]');
 const fileInput = document.querySelector('[data-file-input]');
-const fileButton = document.querySelector('[data-label-for-fileInput]');
+const fileButton = document.querySelector('[data-label]');
 
 const verifier = (() => {
 
