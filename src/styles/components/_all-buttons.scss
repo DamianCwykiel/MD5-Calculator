@@ -16,12 +16,6 @@ input[type='file'] {
     visibility: hidden; 
 }
 
-#frontend-task {
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-}
-
 .button1 {
     background: $purple;
     border: none;
@@ -54,4 +48,6 @@ input[type='file'] {
     font-size: 1rem;
     font-weight: 600;
     padding: 2rem;
+    word-break: break-all;
+    word-wrap: break-word;
 }
